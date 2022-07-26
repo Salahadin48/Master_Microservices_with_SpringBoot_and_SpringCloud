@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Master_Microservices_with_SpringBoot_and_SpringCloud.iml" filepath="$PROJECT_DIR$/.idea/Master_Microservices_with_SpringBoot_and_SpringCloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-spring-boot/learn-spring-boot.iml" filepath="$PROJECT_DIR$/learn-spring-boot/learn-spring-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning-jpa/learning-jpa.iml" filepath="$PROJECT_DIR$/learning-jpa/learning-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learning-rest-webservices/learning-rest-webservices.iml" filepath="$PROJECT_DIR$/learning-rest-webservices/learning-rest-webservices.iml" />
     </modules>
   </component>
 </project>

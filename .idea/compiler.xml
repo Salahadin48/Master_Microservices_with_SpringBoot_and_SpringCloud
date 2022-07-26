@@ -7,14 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="learn-spring-boot" />
         <module name="Master_Microservices_with_SpringBoot_and_SpringCloud" />
         <module name="learning-jpa" />
+        <module name="learning-rest-webservices" />
+        <module name="learn-spring-boot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="learn-spring-boot" target="18" />
       <module name="learning-jpa" target="18" />
+      <module name="learning-rest-webservices" target="18" />
       <module name="Master_Microservices_with_SpringBoot_and_SpringCloud" target="18" />
     </bytecodeTargetLevel>
   </component>
@@ -22,6 +24,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="learn-spring-boot" options="-parameters" />
       <module name="learning-jpa" options="-parameters" />
+      <module name="learning-rest-webservices" options="-parameters" />
     </option>
   </component>
 </project>
